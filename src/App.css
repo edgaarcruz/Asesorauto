@@ -1,0 +1,18 @@
+.App-header {
+  display: flex;
+  flex-direction: column;
+  font-size: calc(2px + 2vmin);
+}
+
+.navbar {
+  background-image: linear-gradient(to right, #3a66a6, #3257a8, #3746a7, #4630a1, #570696);
+  color: white;
+  font-size: small;
+  background-color: white;
+}
+
+.icon {
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 7px;
+}
