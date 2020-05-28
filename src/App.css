@@ -5,14 +5,24 @@
 }
 
 .navbar {
-  background-image: linear-gradient(to right, #3a66a6, #3257a8, #3746a7, #4630a1, #570696);
-  color: white;
   font-size: small;
-  background-color: white;
+  color: white;
+  background-color: #fff;
+}
+
+.navbar-logo {
+  height: auto;
+  width: 150px;
 }
 
 .icon {
   color: white;
   margin-top: 10px;
   margin-bottom: 7px;
+}
+
+.navlink {
+  margin-right: 20px;
+  margin-left: 20px;
+  color: white;
 }
