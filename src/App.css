@@ -10,9 +10,20 @@
   background-color: #fff;
 }
 
+.body {
+  background-image: url(./resources/images/layout/imagen_principal.png);
+}
+
 .navbar-logo {
   height: auto;
   width: 150px;
+}
+
+.img-principal{
+  height: auto;
+  display: flex;
+  position: center;
+
 }
 
 .icon {
@@ -25,4 +36,11 @@
   margin-right: 20px;
   margin-left: 20px;
   color: white;
+}
+
+.center {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
