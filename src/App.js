@@ -16,7 +16,7 @@ function App() {
       <header className="App-header">
         <Navbar/>
         <Home/>
-        <Footer/>
+        {/* <Footer/> */}
       </header>
     </div>
   );
